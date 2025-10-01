@@ -7,7 +7,7 @@ Console.WriteLine("Napiš druhé číslo: ");
 double num2 = double.Parse(Console.ReadLine());
 
 string inputKey;                                      //dal jsem sem string místo char, aby to šlo porovnat s 'konec' (všude tedy bude "" místo '')
-while (true) {                                         //tady mě zachránil Adam Svoboda, že to může být while(true) a break na konci
+while (true) {                                         //tady mě zachránil Adam Svoboda, že to může být while(true) a break na konci (měl jsem tam do a while)
     Console.Write("Jakou chceš provést operaci? Zadej znak nebo 'konec' pro ukončení: ");
     inputKey = Console.ReadLine();                    //teď jelikož je to ve stringu a ne v char, nemusí to být .KeyChar
     Console.WriteLine();                             //prý to bude přehlednější
@@ -33,3 +33,4 @@ while (true) {                                         //tady mě zachránil Ada
         Console.WriteLine("Neplatná operace. Zadej +, -, * nebo /.");
    
 }
+
