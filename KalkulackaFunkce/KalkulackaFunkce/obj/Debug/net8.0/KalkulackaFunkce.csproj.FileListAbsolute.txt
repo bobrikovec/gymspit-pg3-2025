@@ -1,0 +1,14 @@
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\bin\Debug\net8.0\KalkulackaFunkce.exe
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\bin\Debug\net8.0\KalkulackaFunkce.deps.json
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\bin\Debug\net8.0\KalkulackaFunkce.runtimeconfig.json
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\bin\Debug\net8.0\KalkulackaFunkce.dll
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\bin\Debug\net8.0\KalkulackaFunkce.pdb
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\KalkulackaFunkce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\KalkulackaFunkce.AssemblyInfoInputs.cache
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\KalkulackaFunkce.AssemblyInfo.cs
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\KalkulackaFunkce.csproj.CoreCompileInputs.cache
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\KalkulackaFunkce.dll
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\refint\KalkulackaFunkce.dll
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\KalkulackaFunkce.pdb
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\KalkulackaFunkce.genruntimeconfig.cache
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\KalkulackaFunkce\KalkulackaFunkce\obj\Debug\net8.0\ref\KalkulackaFunkce.dll
