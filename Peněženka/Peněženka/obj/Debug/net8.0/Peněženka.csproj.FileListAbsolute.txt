@@ -1,0 +1,14 @@
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\bin\Debug\net8.0\Peněženka.exe
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\bin\Debug\net8.0\Peněženka.deps.json
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\bin\Debug\net8.0\Peněženka.runtimeconfig.json
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\bin\Debug\net8.0\Peněženka.dll
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\bin\Debug\net8.0\Peněženka.pdb
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\Peněženka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\Peněženka.AssemblyInfoInputs.cache
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\Peněženka.AssemblyInfo.cs
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\Peněženka.csproj.CoreCompileInputs.cache
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\Peněženka.dll
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\refint\Peněženka.dll
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\Peněženka.pdb
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\Peněženka.genruntimeconfig.cache
+C:\Users\ondre\OneDrive - Gymnázium, Praha 9, Špitálská 2\Programování\Peněženka\Peněženka\obj\Debug\net8.0\ref\Peněženka.dll

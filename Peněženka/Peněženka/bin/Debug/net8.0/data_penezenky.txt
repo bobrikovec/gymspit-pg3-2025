@@ -1,0 +1,5 @@
+-620|Lístky do kina|Zábava
+-840|Popcorn|Zábava
+900|Výplata|Práce
+140|Příplatky|Práce
+1000000|Výhra ve sportce|Mimořádné
