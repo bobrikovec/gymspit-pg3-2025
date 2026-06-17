@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.UI; // Budeme pot¯ebovat pro Slider
+using UnityEngine.UI; // Budeme pot√∏ebovat pro Slider
 
 public class GemLogic : MonoBehaviour
 {
@@ -7,8 +7,8 @@ public class GemLogic : MonoBehaviour
     private float aktualniCas = 0f;
     private bool hracU_Gemu = false;
 
-    public GameObject hrac; // P¯et·hni hr·Ëe v Inspectoru
-    public GameObject ikonaGemuNaHraci; // Sprite/objekt na hr·Ëi, co se zapne
+    public GameObject hrac;
+    public GameObject ikonaGemuNaHraci; // Sprite/objekt na hr√°√®i, co se zapne
 
     void Update()
     {
@@ -26,9 +26,9 @@ public class GemLogic : MonoBehaviour
 
     void SeberGem()
     {
-        ikonaGemuNaHraci.SetActive(true); // Uk·ûe gem na hr·Ëi
-        Destroy(gameObject); // Smaûe diamant ze zemÏ
-        Debug.Log("GEM SEBR¡N! UteË k Exitu!");
+        ikonaGemuNaHraci.SetActive(true); // Uk√°≈æe gem na hr√°√®i
+        Destroy(gameObject); // Sma≈æe diamant ze zem√¨
+        Debug.Log("GEM SEBR√ÅN! Ute√® k Exitu!");
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -41,7 +41,7 @@ public class GemLogic : MonoBehaviour
         if (other.gameObject.name == "Hrac")
         {
             hracU_Gemu = false;
-            aktualniCas = 0f; // Reset pokroku p¯i ˙tÏku
+            aktualniCas = 0f; // Reset pokroku p√∏i √∫t√¨ku
         }
     }
 }
